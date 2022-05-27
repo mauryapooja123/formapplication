@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Gagan Rana",
+      "adderss": "Una"
+    },
+    {
+      "id": "d51ETGU",
+      "name": "kiran",
+      "adderss": "U.P."
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "address": "Mohali"
+    },
+    {
+      "id": "2",
+      "address": "chd"
+    },
+    {
+      "id": "3",
+      "address": "Delhi"
+    },
+    {
+      "id": "4",
+      "address": "Odisha"
+    },
+    {
+      "id": "5",
+      "address": "U.P"
+    }
+  ]
+}
